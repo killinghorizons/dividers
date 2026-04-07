@@ -1,5 +1,5 @@
 # Divider
-> Generate ASCCI divider.
+> Generate ASCII divider.
 
 ## Build
 
